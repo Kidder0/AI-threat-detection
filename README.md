@@ -1,1 +1,2 @@
 # AI-threat-detection
+Modern organizations generate millions of logs daily across endpoints, networks, and cloud environments. Manual monitoring and traditional rule-based systems often miss advanced persistent threats (APTs), zero-day attacks, and insider threats. This project aims to develop an AI-based system that can detect suspicious behavior and anomalies in real time using machine learning techniques applied to log data.
